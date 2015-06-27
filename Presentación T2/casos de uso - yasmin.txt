@@ -1,0 +1,24 @@
+CASOS DE USO:
+-------------
+Registrar Cliente
+Modificar Cliente 
+Buscar Cliente
+Modificar Cliente
+Inhabilitar Cliente
+Registrar Socio
+Modificar Socio
+Buscar Socio
+Modificar Socio
+Inhabilitar Socio
+Gestionar Alquiler de ambientes
+Registrar Comprobante de Pago
+Buscar aporte
+editar aporte
+Buscar dispensa
+registrar dispensa
+modificar dispensa
+registrar asistencia
+registrar asamblea
+gestionar categoria
+gestionar nicho
+entregar beneficios mutuales
